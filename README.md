@@ -1,6 +1,3 @@
 ## see who unfollowed you 🙎‍♂️
 
-Instagram scaled back its API dramatically so we use a bot 🤖
-
-you must create a file: `secrets.py` with variables for 
-`username` and `password` for this to work
+Note: this no longer works as is, " since instagram has made changes to their front end -- feel free to still check it out, mess around with it, and change the code to make it work again or to build your own bot

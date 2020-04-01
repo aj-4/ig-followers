@@ -1,3 +1,7 @@
 ## see who unfollowed you 🙎‍♂️
 
-Note: this no longer works as is, " since instagram has made changes to their front end -- feel free to still check it out, mess around with it, and change the code to make it work again or to build your own bot
+### Note: instagram changed their front end so this code won't work
+
+Feel free to still check it out to try to get it working again, or to build your own bot
+
+I'm going to leave the code as is so it matches the video but I'll check out PR's if you want to make them :)

@@ -42,8 +42,8 @@ class InstaBot:
 
 	def _get_names(self):
 		sleep(2)
-		#scroll_box = self.driver.find_element_by_xpath("/html/body/div[4]/div/div[2]")
-		scroll_box = self.driver.find_element_by_xpath("/html/body/div[4]/div/div")
+		scroll_box = self.driver.find_element_by_xpath("/html/body/div[4]/div/div/div[2]")
+
 		last_ht, ht = 0, 1
 		while last_ht != ht:
 			last_ht = ht

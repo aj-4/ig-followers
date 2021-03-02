@@ -1,3 +1,3 @@
-## See who unfollowed you
+## See who unfollowed you on instagram
 
 ### It's working now
